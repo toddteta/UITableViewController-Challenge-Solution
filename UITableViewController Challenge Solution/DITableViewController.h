@@ -1,5 +1,5 @@
 //
-//  DIViewController.h
+//  DITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Todd Teta on 4/11/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DIViewController : UIViewController
+@interface DITableViewController : UITableViewController
 
 @end
